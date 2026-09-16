@@ -1,5 +1,3 @@
-## How's it going? 👋
-
 <!--
 **KeRon-asm/KeRon-asm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Ke'Ron, a Junior Software Engineer and senior at Georgia State University. 
-# Hi, I'm Ke'Ron Clark 👋
 
 - 🎓 B.S. Computer Science @ Georgia State University — Dec 2026
 - 📫 Reach me at **clark.keron.e@gmail.com** or [LinkedIn](https://linkedin.com/in/ke-ron-clark-544589254)

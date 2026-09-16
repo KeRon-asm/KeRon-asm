@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 I'm Ke'Ron, a Junior Software Engineer and senior at Georgia State University. 
 
+I find I learn best by building things that solve a problem for me. Whether it's a concept that I don't understand from class, or a bioinformatics tool that I just wanted to understand better. 
+
 - 🎓 B.S. Computer Science @ Georgia State University — Dec 2026
 - 📫 Reach me at **clark.keron.e@gmail.com** or [LinkedIn](https://linkedin.com/in/ke-ron-clark-544589254)
 
